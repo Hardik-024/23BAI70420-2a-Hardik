@@ -1,27 +1,30 @@
-# Experiment 2 – UI using Component Libraries
+# Experiment 2 – HTML Project
 
-## Objective
-To design a professional UI using React component libraries:
-- Material UI
-- React Bootstrap
+## Student Details
+- **Name:** Hardik Sulodia  
+- **Roll Number:** 23BAI70420  
+- **Semester:** 6  
+- **Subject:** Web Development / HTML  
+- **Experiment:** 2  
 
-## Libraries Used
-- Material UI (@mui/material)
-- React Bootstrap
-- Bootstrap CSS
+---
 
-## Features Implemented
-- Material UI AppBar with custom CU theme
-- Responsive grid system using Material UI
-- Dashboard cards (Users, Revenue, Orders)
-- Bootstrap Card component for comparison
-- Responsive layout
+## Project Description
+This project is created as part of the 6th semester practical work.  
+It demonstrates the use of **HTML** to build basic web pages.
 
-## Output
-The application demonstrates the use of both Material UI and Bootstrap
-components in a single React application.
+The project helps in understanding:
+- Structure of HTML documents  
+- Use of tags and elements  
+- Basic webpage layout  
 
-## How to Run
-```bash
-npm install
-npm run dev
+---
+
+## Technologies Used
+- HTML  
+- CSS (if used)  
+- VS Code  
+
+---
+
+## Folder Structure
